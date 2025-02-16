@@ -5,4 +5,4 @@ Contains:
 1. Dockerfile to use PySpark
 2. Docker-compose based on Dockerfile to run whole app
 3. Requirements.txt to use Python libs which will be ran in yaml file
-4. Main.py is DAG itself 
+4. DAG is stored in airflow folder as houses.py
